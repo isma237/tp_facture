@@ -23,10 +23,11 @@ L'objectif de ce premier TP est de créer une facture.
 ## Indication
 
 1. Créer un **fork** de ce projet et décriver son fonctionnement
-2. Créer le modèle de dictionnaire avec les attributs ci-dessus
-3. Ecrire du code permettant de recupérer les saisies utilisateurs. Ceci vous permettra de créer de nouvelles données sur la base du modèle créer en 2
-4. Ajouter les données à un tableau
-5. Calculer le prix total de la facture
-6. Effectuer un *git add .* pour enregister les modifications
-7. Effectuer un *git commit - m "<votre_message>"* pour créer une photo de votre projet
-8. Pousser votre code sur votre repository github. 
+2. Clôner le projet sur votre PC local
+3. Créer le modèle de dictionnaire avec les attributs ci-dessus
+4. Ecrire du code permettant de recupérer les saisies utilisateurs. Ceci vous permettra de créer de nouvelles données sur la base du modèle créer en 2
+5. Ajouter les données à un tableau
+6. Calculer le prix total de la facture
+7. Effectuer un *git add .* pour enregister les modifications
+8. Effectuer un *git commit - m "<votre_message>"* pour créer une photo de votre projet
+9. Pousser votre code sur votre repository github. 
